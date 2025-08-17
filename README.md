@@ -52,6 +52,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ## INDEX.HTML
+```
 hello.html
 !<!DOCTYPE html>
 <html lang="en">
@@ -89,8 +90,10 @@ hello.html
 
 </body>
 </html>
+```
 
 # books.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -142,8 +145,10 @@ hello.html
       
 </body>
 </html>
+```
 
 ## CSS
+```
 css
     * {
       margin: 0;
@@ -278,7 +283,7 @@ css
       }
 
 
-
+```
 ## OUTPUT
 
 <img width="1907" height="1079" alt="Screenshot 2025-08-17 212535" src="https://github.com/user-attachments/assets/185384e8-47ce-4717-9644-ca2e0b136752" />
